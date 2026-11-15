@@ -1,0 +1,10 @@
+{
+  "id": "4e58d432c9c746ffbc0880f225dabbd3",
+  "type": "carousel",
+  "status": "error",
+  "files": [],
+  "caption": "",
+  "flag": "OK",
+  "reason": "exception",
+  "detail": "caption AI failed: gemini-2.0-flash HTTP 404"
+}
