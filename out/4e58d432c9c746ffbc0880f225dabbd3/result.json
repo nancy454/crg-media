@@ -1,10 +1,15 @@
 {
   "id": "4e58d432c9c746ffbc0880f225dabbd3",
   "type": "carousel",
-  "status": "error",
-  "files": [],
-  "caption": "",
-  "flag": "OK",
-  "reason": "exception",
-  "detail": "caption AI failed: gemini-2.0-flash HTTP 404"
+  "status": "ok",
+  "files": [
+    "slide01.jpg",
+    "slide02.jpg",
+    "slide03.jpg",
+    "slide04.jpg",
+    "slide05.jpg",
+    "slide06.jpg"
+  ],
+  "caption": "Coastal expedition.\nOne came for quiet reflection.\nThe other tried to drink the salt water.\n\n#goldenretriever #goldenretrieversofinstagram #goldensofinstagram #retrieveroftheday #doghumor #dogsofinstagram #coastaldogs #goldens #fluffydog",
+  "flag": "OK"
 }
