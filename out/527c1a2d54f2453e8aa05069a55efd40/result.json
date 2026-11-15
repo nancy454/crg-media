@@ -1,0 +1,10 @@
+{
+  "id": "527c1a2d54f2453e8aa05069a55efd40",
+  "type": "reel",
+  "status": "error",
+  "files": [],
+  "caption": "",
+  "flag": "OK",
+  "reason": "exception",
+  "detail": "Command '['ffprobe', '-v', 'error', '-show_entries', 'format=duration', '-of', 'default=nw=1:nk=1', 'jobs/527c1a2d54f2453e8aa05069a55efd40/1dMoCIRtdfhepjnwYRDoYyX5yxGbIfZ_Z.img']' returned non-zero exit status 1."
+}
